@@ -1,4 +1,4 @@
-/* Reset osnovnih stilova */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #a9ffb0; /* Svetlo zelena pozadina */
+    background-color: #a9ffb0; 
     color: #333;
     line-height: 1.6;
     padding: 20px;
